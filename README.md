@@ -18,11 +18,11 @@
 
 ## 起動方法  
 
-# 前提環境
+### 前提環境
   - Node.js 24.x
   - npm 11.x
 
-# インストール
+### インストール
 
   リポジトリをクローンします。  
   > git clone `https://github.com/haz1109-ship-it/haz.github.io`
@@ -33,7 +33,7 @@
   必要なパッケージをインストールします。  
   > npm install  
   
-# アプリの起動
+### アプリの起動
 
   開発サーバーを起動します。  
   > npm run dev
