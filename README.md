@@ -25,7 +25,7 @@
 ### インストール
 
   リポジトリをクローンします。  
-  > git clone `https://github.com/haz1109-ship-it/haz.github.io`
+  > git clone `https://github.com/haz1109-ship-it/study-progress-app`
 
   プロジェクトフォルダへ移動します。  
   > cd study-progress-app
